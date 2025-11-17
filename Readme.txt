@@ -1,4 +1,4 @@
-# Salam! Mənim adım Aysel 👋
+# Salam! Mənim adım Tural 👋
 
 ## Haqqımda
 Yeni başlayan bir QA mühəndisiyəm və hazırda Git, GitHub və test alətləri öyrənirəm.
